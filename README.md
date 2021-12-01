@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Brandon! But my friends call me Sea Bear. 
+- 👋 Hi, I’m Brandon, AKA Build-It Bear! 
 - 👀 I’m interested in Full Stack Web Development, writing small and portable utilities for 
 commonly performed functions, Mobile Development for Android and iOS, and Video Game Development.
 - 🌱 I’m currently learning Java programming, Data Structures and Algorithm, clean coding skills, and web development.
